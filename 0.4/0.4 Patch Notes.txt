@@ -1,0 +1,10 @@
+The Bot has been updated to 0.4!
+
+-Added Vaulting
+-Added Money (And some Currencies)
+-Added 5 More Pictures for the bot to choose from
+-Added 7 New Scenarios involving vaulting and money.
+-Fixed some Grammatical Mistakes
+-Changed the Time between tweets to 30 mins from 10
+
+-Xion
