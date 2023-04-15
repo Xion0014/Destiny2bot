@@ -7,10 +7,9 @@ The bots are written in Tracery, a tool for writing generative grammars develope
 Bot on Twitter: https://twitter.com/Destiny2Bot_
 ---------------------------------------------------------------------------------------------------
 Update 4/15/2023
-Due to Twitter API Changes Cheap Bots done Quick was shut down.
+Due to Twitter API Changes Cheap Bots Done Quick was shut down.
 
-Ive moved the bot over to https://cheapbotstootsweet.com/ using the Mastodon.social Platform
-Same code, just moved over
+Ive moved the bot over to https://cheapbotstootsweet.com/ using the Mastodon.social platform
 
 https://mastodon.social/@Destiny2Bot
 
